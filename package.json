@@ -1,7 +1,7 @@
 {
   "name": "next-gen",
   "version": "0.1.0",
-  "homepage": "https://farukaknc.github.io/ReactJS-ChatGPT-3.5-textdavinci-003-API-marketing-content-generation",
+  "homepage": "https://farukaknc.github.io/ReactJS-ChatGPT-3.5-textdavinci-003-API-product-description-marketing-generation",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
