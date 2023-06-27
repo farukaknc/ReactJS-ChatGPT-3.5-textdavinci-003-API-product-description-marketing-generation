@@ -1,4 +1,4 @@
-## View live demo
+## View the live demo
 Live demo is available in GitHub Pages: https://farukaknc.github.io/ReactJS-ChatGPT-3.5-textdavinci-003-API-product-description-marketing-generation/
 
 # Getting Started with Create React App
