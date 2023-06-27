@@ -22,7 +22,7 @@ function App() {
   const [subcategory, setSubcategory] = useState("");
   const [rangeValue, setRangeValue] = useState(0);
   const [loading, setLoading] = useState(false)
-  const [API_Key, setAPI_Key] = useState("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");
+  const [API_Key, setAPI_Key] = useState("<YOUR OPENAI SECRET KEY>");
   const [activePage, setActivePage] = useState("home");
   const [occupation, setOccupation] = useState("");
 
@@ -62,7 +62,7 @@ function App() {
       const completedSentence = await fetchData(input);
       setLoading(false)
       setCompletedSentence(completedSentence);
-      setAPI_Key("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")
+      setAPI_Key("<YOUR OPENAI SECRET KEY>")
     } catch (error) {
       console.error(error);
     }
