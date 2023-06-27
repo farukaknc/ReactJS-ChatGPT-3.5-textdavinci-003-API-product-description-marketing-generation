@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactJS-ChatGPT-3.5-textdavinci-003-API-product-description-marketing-generation/static/css/main.f22beca9.css",
+    "main.js": "/ReactJS-ChatGPT-3.5-textdavinci-003-API-product-description-marketing-generation/static/js/main.d89a5965.js",
+    "static/js/787.bcb8b1e2.chunk.js": "/ReactJS-ChatGPT-3.5-textdavinci-003-API-product-description-marketing-generation/static/js/787.bcb8b1e2.chunk.js",
+    "index.html": "/ReactJS-ChatGPT-3.5-textdavinci-003-API-product-description-marketing-generation/index.html",
+    "main.f22beca9.css.map": "/ReactJS-ChatGPT-3.5-textdavinci-003-API-product-description-marketing-generation/static/css/main.f22beca9.css.map",
+    "main.d89a5965.js.map": "/ReactJS-ChatGPT-3.5-textdavinci-003-API-product-description-marketing-generation/static/js/main.d89a5965.js.map",
+    "787.bcb8b1e2.chunk.js.map": "/ReactJS-ChatGPT-3.5-textdavinci-003-API-product-description-marketing-generation/static/js/787.bcb8b1e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f22beca9.css",
+    "static/js/main.d89a5965.js"
+  ]
+}
